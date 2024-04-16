@@ -12,5 +12,7 @@
 
   ## Split work
 (1) Person establishes wind-guided odor navigation environment / scenario
+
 (2) Person implements aristae movements **ALINE**
+
 (3) Person implements motor control of plume navigation with processed aristae inputs
