@@ -13,8 +13,8 @@
 Plumes are currently virtual only -> need to apply mechanical transformation from plume to moving the aristae.
 
   ## Split work
-(1) Person establishes wind-guided odor navigation environment / scenario
+(1) Person establishes wind-guided odor navigation environment / scenario **Emilie**
 
 (2) Person implements aristae movements **ALINE**
 
-(3) Person implements motor control of plume navigation with processed aristae inputs
+(3) Person implements motor control of plume navigation with processed aristae inputs **Killian**
