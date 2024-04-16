@@ -10,6 +10,8 @@
 - Sensing: antenna aristae movement, 
 - Motor control: like odor-based modulation but variation of odor due to wind
 
+Plumes are currently virtual only -> need to apply mechanical transformation from plume to moving the aristae.
+
   ## Split work
 (1) Person establishes wind-guided odor navigation environment / scenario
 
