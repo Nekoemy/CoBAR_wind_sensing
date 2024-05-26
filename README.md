@@ -36,4 +36,6 @@ Here is how our project is structured
       ├── Obstacles.ipynb
       ├── README.md
       └──  WindArrowFinal.ipynb        
-      
+
+# Authors
+Killian Raude, Aline Brunner, Emilie Marcou
