@@ -1,6 +1,6 @@
 # Implement wind sensing with the antennal aristae for wind-guided odor navigation
 
-# Importante notification
+## Importante notification
 Videos created for this project can not be open using VLC. Other videos viewer software need to be used as MediaPlayer.
 
 ## Aim of the project
