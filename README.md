@@ -33,7 +33,7 @@ Here is how our project is structured
       │     │     │     ├── ...
       │     └── Obstacles
       │           ├── obstacle_back.mp4
-      │           └── obstaclewind.mp4
+      │           ├── ...
       ├── FindBias.ipynb
       ├── force_vs_torque.ipynb
       ├── notebook.ipynb
