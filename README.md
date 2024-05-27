@@ -43,9 +43,9 @@ Here is how our project is structured
       ├── README.md     
 
 ## Precision on the main notebooks
-notebook.ipynb is the main notebook. It contains the main code for the project (wind sensing, turning behavior) and the code to create some relevant graphs and videos to visualize the behavior.
-obstacles.ipynb implements obstacles, in order to try to emulate complex plume. In particular, a wall has been simulated to try to block the wind.
-position_force_DoFs.ipynb offers the code to compare the force and position sensors signals. It also proposes some code to compare the signals coming from the pitch, roll and yaw DoF's position sensors. Individual DoF stiffness and damping coefficients tuning is also possible through this notebook.
+- **notebook.ipynb** is the main notebook. It contains the main code for the project (wind sensing, turning behavior) and the code to create some relevant graphs and videos to visualize the behavior.
+- **obstacles.ipynb** implements obstacles, in order to try to emulate complex plume. In particular, a wall has been simulated to try to block the wind.
+- **position_force_DoFs.ipynb** offers the code to compare the force and position sensors signals. It also proposes some code to compare the signals coming from the pitch, roll and yaw DoF's position sensors. Individual DoF stiffness and damping coefficients tuning is also possible through this notebook.
 
 *Please note that in the sensing code we used the "pitch" DoF and not the "yaw" DoF to turn, as said in the report !*
 
