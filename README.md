@@ -1,7 +1,7 @@
 # Implement wind sensing with the antennal aristae for wind-guided odor navigation
 
 ## Important notification
-Videos created for this project can not be open using VLC. Other videos viewer software need to be used as MediaPlayer.
+Due to the OpenCv encoding, videos created for this project that are displayed with an arrow can not be open using all video players, we do not expect base Windows video player towork, try using VLC or other software such as MediaPlayer.
 
 ## Aim of the project
 The project aims to simulate the behavior of a fly walking upwind in NeuroMechFly. First, a laminar flow was implemented which was thought to be complexified thanks to objects (walls), to create complex plumes. 
