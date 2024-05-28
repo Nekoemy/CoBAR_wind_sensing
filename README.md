@@ -3,7 +3,7 @@
 ## Important notification
 Due to the OpenCv encoding, videos created for this project that are displayed with an arrow cannot be open using all video players, we do not expect base Windows video player to work, try using VLC or other software such as MediaPlayer.
 
-*Please also note that in the sensing code we used the "pitch" DoF and not the "yaw" DoF to turn as said in the report !*
+*Please also note that in the sensing code we used the "pitch" DoF and not the "yaw" DoF to turn as (wrongly) said in the report !*
 
 ## Aim of the project
 The project aims to simulate the behavior of a fly walking upwind in NeuroMechFly. First, a laminar wind flow was implemented which was thought to be complexified thanks to objects (walls), to create complex plumes. Then a controller was designed to make the fly be able to follow the wind.
